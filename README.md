@@ -27,7 +27,6 @@ To analyze patient visit patterns and uncover insights that help healthcare faci
 ## Project Files
 - Project on Healthcare.pbix – Power BI Dashboard file  
 - patient_data.xlsx – Synthetic hospital dataset 
-- case_study_summary.pdf → written summary of your analysis
 
 ---
 
